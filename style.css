@@ -1,0 +1,26 @@
+h1{
+	font-size: 100px;
+	color: orange;
+	font-family: unlock;
+}
+p{
+	font-style:  italic;
+}
+h2{
+	font-family: Muli
+}
+body{
+	background-color: #ff5d0c;
+}
+img{
+	border-radius: 50%;
+}
+div{
+	background-color: #f68121;
+	border-radius: 50%;
+	margin-right: 500px;
+	margin-left: 500px;
+}
+li{
+	display: inline;
+}
